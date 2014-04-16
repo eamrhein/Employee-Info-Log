@@ -1,0 +1,14 @@
+C:\Users\Eric\AppData\Local\Temporary Projects\EmployeeStuff\bin\Debug\EmployeeStuff.exe
+C:\Users\Eric\AppData\Local\Temporary Projects\EmployeeStuff\bin\Debug\EmployeeStuff.pdb
+C:\Users\Eric\AppData\Local\Temporary Projects\EmployeeStuff\obj\x86\Debug\EmployeeStuff.Form1.resources
+C:\Users\Eric\AppData\Local\Temporary Projects\EmployeeStuff\obj\x86\Debug\EmployeeStuff.Properties.Resources.resources
+C:\Users\Eric\AppData\Local\Temporary Projects\EmployeeStuff\obj\x86\Debug\EmployeeStuff.csproj.GenerateResource.Cache
+C:\Users\Eric\AppData\Local\Temporary Projects\EmployeeStuff\obj\x86\Debug\EmployeeStuff.exe
+C:\Users\Eric\AppData\Local\Temporary Projects\EmployeeStuff\obj\x86\Debug\EmployeeStuff.pdb
+C:\Users\Eric\documents\visual studio 2010\Projects\EmployeeStuff\EmployeeStuff\obj\x86\Debug\EmployeeStuff.exe
+C:\Users\Eric\documents\visual studio 2010\Projects\EmployeeStuff\EmployeeStuff\obj\x86\Debug\EmployeeStuff.pdb
+C:\Users\Eric\documents\visual studio 2010\Projects\EmployeeStuff\EmployeeStuff\bin\Debug\EmployeeStuff.exe
+C:\Users\Eric\documents\visual studio 2010\Projects\EmployeeStuff\EmployeeStuff\bin\Debug\EmployeeStuff.pdb
+C:\Users\Eric\documents\visual studio 2010\Projects\EmployeeStuff\EmployeeStuff\obj\x86\Debug\EmployeeStuff.Form1.resources
+C:\Users\Eric\documents\visual studio 2010\Projects\EmployeeStuff\EmployeeStuff\obj\x86\Debug\EmployeeStuff.Properties.Resources.resources
+C:\Users\Eric\documents\visual studio 2010\Projects\EmployeeStuff\EmployeeStuff\obj\x86\Debug\EmployeeStuff.csproj.GenerateResource.Cache

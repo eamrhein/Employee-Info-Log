@@ -1,0 +1,7 @@
+C:\Users\Eric\documents\visual studio 2010\Projects\EmployeeStuff\EmployeeStuff\bin\Release\EmployeeStuff.exe
+C:\Users\Eric\documents\visual studio 2010\Projects\EmployeeStuff\EmployeeStuff\bin\Release\EmployeeStuff.pdb
+C:\Users\Eric\documents\visual studio 2010\Projects\EmployeeStuff\EmployeeStuff\obj\x86\Release\EmployeeStuff.Form1.resources
+C:\Users\Eric\documents\visual studio 2010\Projects\EmployeeStuff\EmployeeStuff\obj\x86\Release\EmployeeStuff.Properties.Resources.resources
+C:\Users\Eric\documents\visual studio 2010\Projects\EmployeeStuff\EmployeeStuff\obj\x86\Release\EmployeeStuff.csproj.GenerateResource.Cache
+C:\Users\Eric\documents\visual studio 2010\Projects\EmployeeStuff\EmployeeStuff\obj\x86\Release\EmployeeStuff.exe
+C:\Users\Eric\documents\visual studio 2010\Projects\EmployeeStuff\EmployeeStuff\obj\x86\Release\EmployeeStuff.pdb
