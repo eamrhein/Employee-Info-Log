@@ -90,7 +90,7 @@ namespace EmployeeStuff
                 return false;
             }
         }
-        public void clear()
+        public void clear() // this is a change
         {
             textBox1.Clear();
             comboBox1.SelectedIndex = 0;
